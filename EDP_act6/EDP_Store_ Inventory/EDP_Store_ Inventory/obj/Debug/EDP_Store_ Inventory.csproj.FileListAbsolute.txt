@@ -1,0 +1,16 @@
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\bin\Debug\EDP_Store_ Inventory.exe.config
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\bin\Debug\EDP_Store_ Inventory.exe
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\bin\Debug\EDP_Store_ Inventory.pdb
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store_ Inventory.csproj.AssemblyReference.cache
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store__Inventory.Dashboard.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store__Inventory.Properties.Resources.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store_ Inventory.csproj.GenerateResource.cache
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store_ Inventory.csproj.CoreCompileInputs.cache
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store_ Inventory.exe
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store_ Inventory.pdb
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store__Inventory.ProductsForm.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store__Inventory.EditProductsForm.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store__Inventory.LoginForm.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store__Inventory.SalesForm.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store__Inventory.ReportsForm.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\EDP_Store_ Inventory\EDP_Store_ Inventory\obj\Debug\EDP_Store__Inventory.ForgotPasswordForm.resources

@@ -1,0 +1,10 @@
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\bin\Debug\StoreInvertorySystem.exe
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\bin\Debug\StoreInvertorySystem.exe.config
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\obj\Debug\StoreInvertorySystem.csproj.AssemblyReference.cache
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\obj\Debug\StoreInvertorySystem.Dashboard.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\obj\Debug\StoreInvertorySystem.Form1.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\obj\Debug\StoreInvertorySystem.Properties.Resources.resources
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\obj\Debug\StoreInvertorySystem.csproj.GenerateResource.cache
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\obj\Debug\StoreInvertorySystem.csproj.CoreCompileInputs.cache
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\obj\Debug\StoreInvertorySystem.exe
+C:\Users\Kim\OneDrive\Documents\EDP_act6\StoreInvertorySystem\StoreInvertorySystem\obj\Debug\StoreInvertorySystem.pdb
